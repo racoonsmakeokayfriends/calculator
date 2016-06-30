@@ -3,3 +3,12 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+
+.btn.num:hover {
+	background-color: grey;
+}
+
+.green {
+	background-color: green;
+}
